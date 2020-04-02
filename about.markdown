@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Marcello Lavrador
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Natural de São Paulo moro em Barra Mansa/RJ e trabalho na Brasilcap Capitalização SA no Rio de Janeiro/RJ. Cristão da Metodista Wesleyana e adorador do Deus vivo. 
+Formado em Análise e desenvolvimento de sistemas, MBA Gestão de projetos, MBA Gestão empresarial, Certificado em PeopleSoft Tools I, II e III e Certificado em SAP FI.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+O layout deste site está baseado em jekyll, para maiores informações acesse [jekyllrb.com](https://jekyllrb.com/)
 
 [jekyll-organization]: https://github.com/jekyll
